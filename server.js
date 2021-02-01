@@ -6,7 +6,7 @@ app.use(express.static('public'))
 app.get('/',(req,res)=>{
     app.render('index.html')
 })
-
-app.listen('4040',()=>{
+const port = process.env.PORT || 4040
+app.listen(port,()=>{
     console.log('Server is running')
 })
