@@ -11,11 +11,11 @@ const showEvents =(e)=>{
 </script>
 <svelte:head>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-	<title>YO</title>
+	<title>??</title>
 </svelte:head>
 <main>
 	<div class="container">
-		<h3 class='text-center'>Yo</h3>
+		<h3 class='text-center'>??</h3>
 		<div class="container">
 			<div class="input-group">
 				<label class='m-4' for=""> 
